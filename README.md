@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sean Gao (@xga0)
+👋 Hi, I’m Sean Gao (@xga0)
 
 <!---
 xga0/xga0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
